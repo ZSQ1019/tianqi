@@ -5,23 +5,7 @@
 # 公众号appSecret
 "app_secret": "6214b91f56b0eca3686ab5e0add9f5c8",
 # 模板消息id
-"template_id": "地区：{{region.DATA}}
-⛅天气：{{weather.DATA}}
-❄最低气温：{{min_temp.DATA}}
-🔅最高气温：{{max_temp.DATA}}
-🌡当前气温：{{temp.DATA}}
-🌌当前风向：{{wind_dir.DATA}}
-💫pm2.5值：{{pm2p5.DATA}}
-🌐空气质量：{{category.DATA}}
-🌝日出时间：{{sunrise.DATA}}
-🌜日落时间：{{sunset.DATA}}
-💕今天是我们认识的第{{love_day.DATA}}天
-{{birthday1.DATA}}
-今日建议：
-{{proposal.DATA}}
-{{chp.DATA}}
-{{note_en.DATA}}
-{{note_ch.DATA}}",
+"template_id": "7lE6pI1u_EPRc1vKbNYbIIYQ9VtmUfczlue53Zrddh0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oujVs5hB74nQjmMNdaP0Pk3R4_WY"],
 
