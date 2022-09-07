@@ -17,7 +17,6 @@
 🌜日落时间：{{sunset.DATA}}
 💕今天是我们认识的第{{love_day.DATA}}天
 {{birthday1.DATA}}
-{{birthday2.DATA}}
 今日建议：
 {{proposal.DATA}}
 {{chp.DATA}}
